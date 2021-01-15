@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{88c07f65-273c-439c-9683-9fd8748b053c}">
+		<property name="assetPath">
+			<value>Industry Tool Hammer Hitting Nail Into Wood 11.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.25533333333333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a2ec2d88-4c6d-4ac0-99f5-1697813b95fd}</destination>
+		</relationship>
+	</object>
+</objects>

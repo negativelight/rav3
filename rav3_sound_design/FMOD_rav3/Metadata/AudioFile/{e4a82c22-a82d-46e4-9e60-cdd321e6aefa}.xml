@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{e4a82c22-a82d-46e4-9e60-cdd321e6aefa}">
+		<property name="assetPath">
+			<value>QRS-XL, Bathroom (465)_dc.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.32018750000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a2ec2d88-4c6d-4ac0-99f5-1697813b95fd}</destination>
+		</relationship>
+	</object>
+</objects>

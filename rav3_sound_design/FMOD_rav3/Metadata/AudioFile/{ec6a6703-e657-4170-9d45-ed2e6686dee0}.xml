@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{ec6a6703-e657-4170-9d45-ed2e6686dee0}">
+		<property name="assetPath">
+			<value>Player/gak_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.59733333333333338</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a2ec2d88-4c6d-4ac0-99f5-1697813b95fd}</destination>
+		</relationship>
+	</object>
+</objects>

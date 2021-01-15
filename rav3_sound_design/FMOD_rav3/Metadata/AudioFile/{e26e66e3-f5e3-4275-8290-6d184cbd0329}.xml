@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{e26e66e3-f5e3-4275-8290-6d184cbd0329}">
+		<property name="assetPath">
+			<value>my_breath.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>31.84</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a2ec2d88-4c6d-4ac0-99f5-1697813b95fd}</destination>
+		</relationship>
+	</object>
+</objects>
