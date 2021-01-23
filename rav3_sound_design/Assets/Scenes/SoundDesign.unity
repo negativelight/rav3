@@ -65180,7 +65180,7 @@ PrefabInstance:
     - target: {fileID: 3280006744415740122, guid: a01ef6cfe0d51b74697d97b9986e4dfd,
         type: 3}
       propertyPath: MaxStableMoveSpeed
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3280006744415740122, guid: a01ef6cfe0d51b74697d97b9986e4dfd,
         type: 3}
