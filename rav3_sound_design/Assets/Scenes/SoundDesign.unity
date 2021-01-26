@@ -168,7 +168,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: event:/Ambience/Door_1
+  Event: event:/Ambience/Roomtone
   PlayEvent: 0
   StopEvent: 0
   AllowFadeout: 1
@@ -392,7 +392,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: event:/Ambience/Water Running
+  Event: event:/Ambience/EVP
   PlayEvent: 1
   StopEvent: 0
   AllowFadeout: 1
@@ -401,7 +401,7 @@ MonoBehaviour:
   Params: []
   OverrideAttenuation: 0
   OverrideMinDistance: 1
-  OverrideMaxDistance: 1.8000001
+  OverrideMaxDistance: 1.2
 --- !u!65 &48867371
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1094,7 +1094,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: event:/Ambience/Door_1
+  Event: event:/Ambience/Roomtone
   PlayEvent: 0
   StopEvent: 0
   AllowFadeout: 1
@@ -1279,7 +1279,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: event:/Ambience/iPhone Clock
+  Event: event:/Ambience/Psycho_Sample
   PlayEvent: 1
   StopEvent: 0
   AllowFadeout: 1
@@ -1823,7 +1823,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: event:/Ambience/Party
+  Event: event:/Ambience/EvP
   PlayEvent: 0
   StopEvent: 0
   AllowFadeout: 1
@@ -2406,7 +2406,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: event:/Ambience/Door_1
+  Event: event:/Ambience/Evil_Voice
   PlayEvent: 0
   StopEvent: 0
   AllowFadeout: 1
@@ -3128,7 +3128,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: event:/Ambience/Door_1
+  Event: event:/Ambience/PianoMusic
   PlayEvent: 0
   StopEvent: 0
   AllowFadeout: 1
@@ -3351,9 +3351,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: event:/Ambience/Door_1
+  Event: event:/Ambience/Evil_Minions
   PlayEvent: 1
-  StopEvent: 0
+  StopEvent: 2
   AllowFadeout: 1
   TriggerOnce: 0
   Preload: 0
@@ -3719,7 +3719,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: event:/Ambience/Door_1
+  Event: event:/Ambience/Roomtone
   PlayEvent: 0
   StopEvent: 0
   AllowFadeout: 1
@@ -4021,9 +4021,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: event:/Ambience/Door_3
+  Event: event:/Ambience/Chainsaw
   PlayEvent: 1
-  StopEvent: 0
+  StopEvent: 2
   AllowFadeout: 1
   TriggerOnce: 0
   Preload: 0
@@ -4138,7 +4138,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: event:/Ambience/Door_1
+  Event: event:/Ambience/Chainsaw
   PlayEvent: 0
   StopEvent: 0
   AllowFadeout: 1
@@ -4147,7 +4147,7 @@ MonoBehaviour:
   Params: []
   OverrideAttenuation: 0
   OverrideMinDistance: 1
-  OverrideMaxDistance: 20
+  OverrideMaxDistance: 2.2
 --- !u!65 &844174805
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4555,7 +4555,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: event:/Ambience/Door_1
+  Event: event:/Ambience/Tuba
   PlayEvent: 0
   StopEvent: 0
   AllowFadeout: 1
@@ -6722,15 +6722,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CollisionTag: 
   Event: event:/Ambience/EVP
-  PlayEvent: 1
-  StopEvent: 2
+  PlayEvent: 0
+  StopEvent: 0
   AllowFadeout: 1
   TriggerOnce: 0
   Preload: 0
   Params: []
   OverrideAttenuation: 0
   OverrideMinDistance: 1
-  OverrideMaxDistance: 4
+  OverrideMaxDistance: 3.6000001
 --- !u!65 &1517625205
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7242,7 +7242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: event:/Ambience/Door_1
+  Event: event:/Ambience/Tuba
   PlayEvent: 0
   StopEvent: 0
   AllowFadeout: 1
@@ -7996,7 +7996,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: event:/Ambience/Party
+  Event: event:/Ambience/Evil_Voice
   PlayEvent: 1
   StopEvent: 0
   AllowFadeout: 1
@@ -8928,9 +8928,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CollisionTag: 
-  Event: event:/Ambience/Garbage Shoot
-  PlayEvent: 3
+  CollisionTag: Player
+  Event: event:/Ambience/Water Running
+  PlayEvent: 0
   StopEvent: 0
   AllowFadeout: 1
   TriggerOnce: 0
@@ -8938,7 +8938,7 @@ MonoBehaviour:
   Params: []
   OverrideAttenuation: 0
   OverrideMinDistance: 1
-  OverrideMaxDistance: 20
+  OverrideMaxDistance: 7
 --- !u!65 &2011395969
 BoxCollider:
   m_ObjectHideFlags: 0

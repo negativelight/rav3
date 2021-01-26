@@ -86,7 +86,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{854852e9-6ea7-4bec-844a-aac58b06c468}">
 		<property name="volume">
-			<value>-4</value>
+			<value>-10</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{ac68116b-0847-460f-a5e9-dc0caae7cc60}</destination>
@@ -144,7 +144,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{7845f237-3722-42ca-8e54-3237dfae3ba0}">
 		<property name="volume">
-			<value>-15</value>
+			<value>-19.5</value>
 		</property>
 		<property name="name">
 			<value>Discharge</value>
